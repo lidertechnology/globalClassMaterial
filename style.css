@@ -1,0 +1,4 @@
+/* Espaciador de elementos al final de la linea */
+.space {
+  flex: 1 1 auto;
+}
